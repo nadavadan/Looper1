@@ -1,5 +1,5 @@
 {
-  "homepage": "http://nadavadan.github.io/Loop-Machine",
+  "homepage": "http://nadavadan.github.io/Looper",
   "name": "loop_machine",
   "version": "0.1.0",
   "private": true,
@@ -46,6 +46,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.2.3"
+    "gh-pages": "^2.2.0"
   }
 }
